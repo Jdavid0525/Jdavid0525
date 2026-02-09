@@ -2,6 +2,10 @@
 
 Oi!! Sou Desenvolvedor Web Front End iniciante e aspiro a aprender mais cada dia para ser um profissional 
 
+- 💙 Fã da Alura
+- 👩‍💻 Aprendendo algo sobre Front-end
+
+
 Essas são minhas habilidades
 
 <div>
