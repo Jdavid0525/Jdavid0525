@@ -1,4 +1,4 @@
-<img src = "video games running GIF" align = "rigth">
+<img src = "video games running GIF.gif" align = "rigth">
 
 Oi!! Sou Desenvolvedor Web Front End iniciante e aspiro a aprender mais cada dia para ser um profissional 
 
